@@ -1,0 +1,21 @@
+{
+  "name": "bulk-rename",
+  "version": "1.0.0",
+  "description": "BUILDING A SIMPLE NODE.js WEB APPLICATION WHICH CAN RENAME FILES IN BULK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansatya/BULK-RENAME.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amansatya/BULK-RENAME/issues"
+  },
+  "homepage": "https://github.com/amansatya/BULK-RENAME#readme"
+}
